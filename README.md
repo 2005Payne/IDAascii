@@ -18,6 +18,9 @@ ex) 3 dup(13h) == 13h, 13h, 13h)
 
 ## ===실행===
 ![image](https://user-images.githubusercontent.com/88232976/198501413-d867ddb2-7695-4811-a8c9-1cb9e3d5f92f.png)   
+아이다에서 가져온 16진수를 변환하면 이상한 문자가 나오지만   
+![image](https://user-images.githubusercontent.com/88232976/198504050-822d341a-5774-44a0-a554-b70ee962c88d.png)
+helloworld를 16진수 아스키코드로 변환한 것을 입력값에 넣으면 helloworld가 출력 된다
 
 
 
